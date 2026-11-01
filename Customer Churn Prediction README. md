@@ -10,14 +10,5 @@ Tools used:
 - Jupyter Notebook
 - Excel
 
-## Land price Prediction
-This project focuses on Predicting Land prices using historical land sales data.
-files:
-- Land_Price_Prediction.ipynb
-- Land_Sales_History.xlsx
 
-Tools used:
-- Python
-- jupyter Notebook
-- Excel
 
